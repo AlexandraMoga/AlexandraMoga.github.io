@@ -1,0 +1,11 @@
+{
+	"addons": {
+		"addon@external_updates.io": {
+			"updates": [{
+				"version": "1.1",
+				"update_link": "https://github.com/AlexandraMoga/AlexandraMoga.github.io/version2.zip"
+			}]
+
+		}
+	}
+}
