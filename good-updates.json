@@ -24,6 +24,10 @@
 
 		"mv2-and-mv3-updates@external_updates.io": {
 			"updates": [{
+				"version": "2.0",
+				"update_link": "https://alexandramoga.github.io/MV2_and_MV3_updates_v2=MV2.zip"
+			},
+			{
 				"version": "4.0",
 				"update_link": "https://alexandramoga.github.io/MV2_and_MV3_updates_v3=MV3.zip"
 			}]
